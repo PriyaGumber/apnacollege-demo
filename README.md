@@ -1,3 +1,3 @@
-# apnacollege-demo
-This is my first Git Repo
+# Hello from GitHub and Local!
+This is my first repo
 Author : Priya Gumber
